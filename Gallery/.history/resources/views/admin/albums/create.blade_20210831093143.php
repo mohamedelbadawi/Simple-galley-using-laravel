@@ -1,3 +1,0 @@
-@section('layouts.app')
-    
-@endsection
